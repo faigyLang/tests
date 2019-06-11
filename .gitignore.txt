@@ -1,0 +1,3 @@
+ testgit/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+ testgit/obj/Debug/testgit.csproj.CoreCompileInputs.cache
+testgit/obj/Debug/testgit.csprojAssemblyReference.cache
