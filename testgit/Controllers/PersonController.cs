@@ -19,9 +19,14 @@ namespace testgit.Controllers
             return View();
         }
 
-        public List<Person> Get()
+        public Person Get(int id)
         {
-            return people;
+            return people.FirstOrDefault(s => s.Id == id);
+        }
+
+        public void delete(int id)
+        {
+            
         }
     }
 }
