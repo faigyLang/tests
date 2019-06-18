@@ -11,7 +11,7 @@ namespace testgit.Controllers
     {
         List<Person> people = new List<Person>()
         {
-            new Person{Id= 1, Name= "faigy"}
+            new Person{Code= 1, Name= "faigy"}
         };
         // GET: Person
         public ActionResult Index()
@@ -21,7 +21,7 @@ namespace testgit.Controllers
 
         public Person Get(int id)
         {
-            return people.FirstOrDefault(s => s.Id == id);
+            return people.FirstOrDefault(s => s.Code == id);
         }
 
         public void delete(int id)
