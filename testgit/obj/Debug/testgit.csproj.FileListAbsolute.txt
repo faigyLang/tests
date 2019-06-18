@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 M:\GroupB\תלמידות\אלישבע ישראל\webApi\tests\testgit\bin\testgit.dll.config
 M:\GroupB\תלמידות\אלישבע ישראל\webApi\tests\testgit\bin\testgit.dll
 M:\GroupB\תלמידות\אלישבע ישראל\webApi\tests\testgit\bin\testgit.pdb
@@ -68,3 +69,7 @@ M:\GroupB\תלמידות\אלישבע ישראל\webApi\tests\testgit\obj\Debug\
 M:\GroupB\תלמידות\אלישבע ישראל\webApi\tests\testgit\obj\Debug\testgit.csproj.CopyComplete
 M:\GroupB\תלמידות\אלישבע ישראל\webApi\tests\testgit\obj\Debug\testgit.dll
 M:\GroupB\תלמידות\אלישבע ישראל\webApi\tests\testgit\obj\Debug\testgit.pdb
+=======
+M:\GroupB\תלמידות\אסתר בן חמו\WebApi\tests\testgit\obj\Debug\testgit.csprojAssemblyReference.cache
+M:\GroupB\תלמידות\אסתר בן חמו\WebApi\tests\testgit\obj\Debug\testgit.csproj.CoreCompileInputs.cache
+>>>>>>> master
