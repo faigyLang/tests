@@ -1,2 +1,4 @@
 M:\GroupB\תלמידות\אסתר בן חמו\WebApi\tests\testgit\obj\Debug\testgit.csprojAssemblyReference.cache
 M:\GroupB\תלמידות\אסתר בן חמו\WebApi\tests\testgit\obj\Debug\testgit.csproj.CoreCompileInputs.cache
+M:\GroupB\תלמידות\מיכל אזראן\webapi\tests\testgit\obj\Debug\testgit.csprojAssemblyReference.cache
+M:\GroupB\תלמידות\מיכל אזראן\webapi\tests\testgit\obj\Debug\testgit.csproj.CoreCompileInputs.cache

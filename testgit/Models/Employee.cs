@@ -5,8 +5,15 @@ using System.Web;
 
 namespace testgit.Models
 {
-    public class Employee:Person
+    public class employee
     {
-        public int Salary { get; set; }
+        private int id;
+
+        public int ID
+        {
+            get { return id; }
+            set { id = value; }
+        }
+
     }
 }
