@@ -18,7 +18,7 @@ namespace testgit.Controllers
         // GET: Person
        
 
-        public animals Get(int id)
+        public animals GetBiId(int id)
         {
             return a.FirstOrDefault(s => s.id == id);
         }
